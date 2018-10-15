@@ -1,5 +1,5 @@
 # Binding_Failures
-This MATLAB code is used to study coincidence-detecting networks that model feature binding, and what condictions cause them to fail.
+This MATLAB code is used to study coincidence-detecting networks that model feature binding, and what conditions cause them to fail.
 
 For questions, please contact niels.leadholm@seh.ox.ac.uk
 
